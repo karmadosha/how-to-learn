@@ -211,7 +211,7 @@
 /* Кауфман */
 
 .kaufman {
-  background: #1f1f1f ;
+  background: #1f1f1f;
   overflow: hidden;
   position: relative;
   z-index: 0;
@@ -328,10 +328,4 @@
 
 
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
