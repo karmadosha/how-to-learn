@@ -11,12 +11,4 @@
 
 }
 
-a {
-  color: #2f80ed;
-  opacity: 1;
-}
 
-a:hover {
-  transition:  0.3s linear;
-  opacity: 0.5;
-}
